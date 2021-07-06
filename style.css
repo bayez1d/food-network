@@ -28,5 +28,31 @@ section {
 .mid-background {
   background-image: url(images/shapes/blue-bg.jpg);
   background-image: no-repeat;
+  background-size: 1500px;
   background-position: left 10px;
+}
+h3 {
+  text-align: center;
+}
+section {
+  padding-bottom: 30px;
+}
+.mid-align {
+  text-align: center;
+}
+.flex-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+,
+.flex-container img {
+  width: 50%;
+}
+.mini {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.mini img {
+  display: flex;
+  object-fit: scale-down;
 }
