@@ -6,7 +6,7 @@ h1 {
   font-size: 50px;
 }
 .cyan {
-  color: rgb(2, 170, 170);
+  color: rgb(67, 164, 255);
 }
 section {
   display: flex;
@@ -21,7 +21,7 @@ section {
 }
 .link-button {
   text-decoration: none;
-  background-image: linear-gradient(darkcyan, cyan);
+  background-image: linear-gradient(rgb(0, 88, 139), rgb(0, 183, 255));
   padding: 10px 30px;
   border-radius: 5px;
   color: rgb(248, 248, 248);
@@ -55,6 +55,7 @@ section {
 }
 h2 {
   text-align: center;
+  color: rgb(67, 164, 255);
 }
 .services {
   margin-left: 10px;
@@ -67,4 +68,22 @@ h2 {
 }
 .small {
   text-align: center;
+}
+#info {
+  color: rgb(67, 164, 255);
+}
+.footer-bg {
+  background-image: url(images/2753045.jpg);
+}
+h3 {
+  color: rgb(104, 104, 104);
+}
+.small {
+  color: aliceblue;
+}
+span {
+  color: rgb(67, 164, 255);
+}
+.own-diet img {
+  width: 100%;
 }
