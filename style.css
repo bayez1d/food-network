@@ -1,0 +1,31 @@
+body {
+  font-family: "Otomanopee One", sans-serif;
+  margin: 0px;
+}
+h1 {
+  font-size: 50px;
+}
+.cyan {
+  color: rgb(2, 170, 170);
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.half-width img {
+  width: 100%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(darkcyan, cyan);
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: rgb(248, 248, 248);
+}
+.mid-background {
+  background-image: url(images/shapes/blue-bg.jpg);
+  background-image: no-repeat;
+}
