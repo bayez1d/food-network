@@ -17,6 +17,7 @@ section {
 }
 .half-width img {
   width: 80%;
+  padding-left: 2%;
 }
 .link-button {
   text-decoration: none;
@@ -35,7 +36,7 @@ h3 {
   text-align: center;
 }
 section {
-  padding-bottom: 30px;
+  padding-bottom: 40px;
 }
 .mid-align {
   text-align: center;
@@ -51,4 +52,19 @@ section {
 .mini {
   padding-left: 20px;
   padding-right: 20px;
+}
+h2 {
+  text-align: center;
+}
+.services {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+}
+.footer {
+  text-align: center;
+}
+.small {
+  text-align: center;
 }
