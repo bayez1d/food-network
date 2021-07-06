@@ -52,7 +52,3 @@ section {
   padding-left: 20px;
   padding-right: 20px;
 }
-.mini img {
-  display: flex;
-  object-fit: scale-down;
-}
